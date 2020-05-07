@@ -47,7 +47,7 @@ On se propose d’analyser simplement les risques auxquels s’exposent un cycli
 > Les impacts sont les dommages physiques et matériels.
 
 5. Quel est la vraisemblance de ce scénario de risques ?
-> Taux de probabilité élevé
+    > Taux de probabilité élevé
 
 6. Quel peut être le scénario d’exploitation de la vulnérabilité par le risque ?
 > Le scénario d’exploitation de la vulnérabilité par le risque est l’exploitation d’une vulnérabilité par une menace donnant lieu à un impact.
@@ -443,6 +443,34 @@ Pour celà vous vous servirez du document "EBIOS-2-Bases-de-connaissances" et de
 
 Vous pouvez vous inspirer du guide de sécurisation de l’informatique industrielle et de l’annexe D de la norme iso 27005.
 
+|Menace|Exemples|
+|----|----|
+|||
+Physiques	|Incendie
+||Dégâts des eaux
+||Destruction de matériel
+||
+Evènements climatiques	|Séisme
+||Phénomène météorologique
+||
+Perte de services essentiels|Panne de climatisation
+||Panne électrique
+||
+Problèmes techniques|	Dysfonctionnement du matériel
+||Panne du matériel
+||Problème logiciel
+||
+Erreur/négligence de comportement|	Erreur de conception
+||Erreur de configuration
+||Absence de documentation
+||Non respect des lois
+||
+Malveillance/fraude|	Vol d’informations
+||Divulgation d’informations
+||Perturbation des activités
+||Propagation de virus
+||Destruction d’informations
+||Usurpation d’identité
 
 ### 4.7 - Réunissez les évènements redoutés et les scénarii de menaces pour analyser les risques
 
