@@ -488,4 +488,68 @@ Vous devez décider si vous acceptez le risque sans rien faire en tant que déci
 Donc j'attends une décision et de la technique de votre part.
 
 
+* ER1/SM1 : Perte de la connexion Wi-Fi sur les tablettes
+> Nous décidons de réduire au maximum ce risque :
+Avoir une infrastructure solide, bien dimensionner, configurer et tester l’infrastructure. 
+Avoir des techniciens qui contrôle le réseau et qui sont prêt à intervenir.
+Des coûts supplémentaires sont donc à prévoir.
+
+* ER2/SM2 : Dysfonctionnement du matériel
+> Cet événement nécessite d’avoir une certaines importances, malgré que nous ne pouvons prévoir cet événement, nous ne pouvons pas l’ignorer, il faut donc réduire ce risque, au minimum en ayant un suivi du matériel et vérifier son état le plus souvent possible pour s’assurer du parfait fonctionnement du matériel
+
+* ER3/SM3 : Brouillage du signal WIFI par un attaquant
+> Pour cet évènement, on accepte le risque , on y pense mais on ne met pas en oeuvre des moyens pour le parer. La mise en place de moyens surviendra dès la première 
+
+* ER4/SM4 : Interception des données échangées
+> Nous décidons de réduire au maximum ce risque :
+> * On utilise tous les normes de sécurité possible en se référençant à la norme 
+ISO 27001.
+> * Contrôler la zone couverture du signal pour éviter une récupération du réseau par l’extérieur. 
+
+* ER5/SM5 : Usurpation d’identité électronique
+> Nous décidons de réduire au maximum ce risque :
+Vérification qu’il n’y a qu’une connexion par élève.
+L’élève ce signal quand il se connecte pour authentifier la connexion.
+Le reste du risque est à la charge des surveillants
+Effectue des vérifications :‘carte d’identité’
+
+* ER6/SM6 : Interruption de l'examen naturelle
+> Refus du risque en tant que simple DSI,
+Les catastrophes naturelles étant très rares mais surtout déterminé par la zone géographique.
+
+* ER7/SM7 : Interruption de l'examen par le biais d'un acte humain
+> Refus du risque, en tant que DSI, ce n’est pas sous notre responsabilité et nous n’avons pas les moyens de le parer.
+
+* ER8/SM8 : Tricherie pendant l'examen
+> Refus du risque en tant que DSI la gestion des triches ne fait pas partie de nos compétence.
+
+* ER9/SM9 : Vols et divulgations des sujets
+> Refus du risque en tant que DSI la gestion des vols  ne fait pas partie de nos compétences.
+
+
+* ER10/SM10 : Visibilité des données sur le réseau
+> Avoir une infrastructure sécurisé au maximum
+
+* ER11/SM11 : Propagation d'un virus dans le réseau informatique
+> Avoir une infrastructure sécurisé au maximum
+
+* ER12/SM12 : Arrêt du réseau pendant l'épreuve
+> Nous devons mettre tous les moyens nécessaire  pour que cet événement n’arrive pas, nous devons réduire les risques, faire du monitoring des équipements, vérifier l’équilibrage des charges
+
+* ER13/SM13 : Panne d’électricité pendant l'épreuve
+> Refus du risque en tant que DSI la gestion de ce type de risque ne fait pas partie de nos compétences.
+
+* ER14/SM14 : Perte de traçabilité après l'épreuve
+> Avoir une infrastructure sécurisé au maximum
+
+* ER15/SM15 : Manque de documentation
+> Nous décidons de réduire au maximum ce risque :
+> Rédaction de documentations fidèle
+> Plan Réseau de différents niveau (logique, topologique)
+Rédaction de procédure
+
+* ER16/SM16 : Dysfonctionnement logiciel d'un matériel
+> Cet événement nécessite d’avoir une certaines importances, malgré que nous ne pouvons prévoir cet événement, nous ne pouvons pas l’ignorer, il faut donc réduire ce risque, au minimum en ayant un suivi du matériel et vérifier son état le plus souvent possible pour s’assurer du parfait fonctionnement du logiciel
+
+
 [![Button](https://i.imgur.com/bfX43uC.png)](https://github.com/Alex-BRZK/SEC/) 
