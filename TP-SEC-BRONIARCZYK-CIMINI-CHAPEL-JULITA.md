@@ -223,7 +223,6 @@ Votre travail est de réaliser une étude de risques sur ce projet par groupe de
 C’est un projet réel qui a fait l’objet d’une présentation aux journées systèmes et réseaux de 2015.
 
 Vous aurez pour support la vidéo issue des JRES : https://registry.iutbeziers.fr:12443/risques/videojres-risques.mp4accessible aussi sur youtube https://www.youtube.com/watch?v=GQzhKvn9H58.
-{%youtube GQzhKvn9H58 %}
 
 Les supports ( présentation et article ) sont sur Moodle.
 Les pages suivantes aussi peuvent être utiles :
@@ -367,10 +366,21 @@ Réalisez un tableau rattachant à chaque bien support les biens essentiels qui 
 
 | Biens supports | Biens essentiels | 
 | -------- | -------- | 
-| Bâtiment d'examen   | Utilisateurs (étudiants...) |
-| Equipements informatiques (serveurs, borne WiFi...) | Infrastructure Réseau |
-| Tablettes	| Examen |
-| Personnel informatique (DSI...) |	Infrastructure Réseau |
+|Borne Wi-Fi|	Connexion Wi-Fi|
+|Equipements informatique|	Infrastructure réseau|
+|Réseau informatique	|Données de l'examen|
+|Tablettes	|Examen|
+|Humains, Matériels|	Examen|
+|Sujets	|Examen|
+|Réseau informatique|	Données du réseau|
+|Equipements et réseau informatique|	Données du réseau|
+|Réseau informatique	|Examen|
+|Réseau électrique	|Bâtiment|
+|Données du serveur	|Données de l'examen|
+|Logiciel informatique	|Configuration du logiciel|
+
+
+
 
 ### 4.4 - Etudiez les évènements redoutés
 
