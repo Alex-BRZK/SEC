@@ -477,6 +477,8 @@ Malveillance/fraude|	Vol d’informations
 
 Pour cette question, nous avons répondu via un Tableur, comportant tout les données voulues.
 
+Disponible à ce lien : https://github.com/Alex-BRZK/SEC/
+
 
 ### 4.8 - Prenez la place du décideur et traiter les risques 
 Les risques  sont classés en fonction des critères donnés dans les échelles. 
@@ -484,4 +486,4 @@ Vous devez décider si vous acceptez le risque sans rien faire en tant que déci
 Donc j'attends une décision et de la technique de votre part.
 
 
-[![Button](https://i.imgur.com/bfX43uC.png)](https://github.com/Alex-BRZK/SEC/blob/master/TP-SEC-BRONIARCZYK-CIMINI-CHAPEL-JULITA.md) 
+[![Button](https://i.imgur.com/bfX43uC.png)](https://github.com/Alex-BRZK/SEC/) 
