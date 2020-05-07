@@ -454,3 +454,6 @@ Pour cette question, nous avons répondu via un Tableur, comportant tout les don
 Les risques  sont classés en fonction des critères donnés dans les échelles. 
 Vous devez décider si vous acceptez le risque sans rien faire en tant que décideur, si vous demandez sa réduction vous devez lister les méthodes proposées et chiffrer ( achat d'un firewall , embauche ...), ou refuser le risque en décidant d'arrêter. 
 Donc j'attends une décision et de la technique de votre part.
+
+
+[![Button](https://i.imgur.com/bfX43uC.png)](https://github.com/Alex-BRZK/SEC/blob/master/TP-SEC-BRONIARCZYK-CIMINI-CHAPEL-JULITA.md) 
