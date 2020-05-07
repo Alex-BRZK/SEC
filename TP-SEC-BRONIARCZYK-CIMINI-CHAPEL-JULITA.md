@@ -122,9 +122,9 @@ Il y a trois choix : ignorer (mais le RSSI a fait son travail), atténuer ou sup
 > DICT → Disponibilité Intégrité Confidentialité Traçabilité. 
 
 >Les critères de sécurité concernés sont :
-    • Intégrité ;
-    • Confidentialité ;
-    • Traçabilité.
+>    • Intégrité ;
+>    • Confidentialité ;
+>    • Traçabilité.
 
 4. Quels sont les impacts de haut niveau ?
 > Les impacts de haut niveau sont :
@@ -443,34 +443,36 @@ Pour celà vous vous servirez du document "EBIOS-2-Bases-de-connaissances" et de
 
 Vous pouvez vous inspirer du guide de sécurisation de l’informatique industrielle et de l’annexe D de la norme iso 27005.
 
-|Menace|Exemples|
+|Vulnérabilitée|Exemples|
 |----|----|
 |||
-Physiques	|Incendie
-||Dégâts des eaux
-||Destruction de matériel
+Hardware	|Capacité du matériel
+||Intégrité de l'équipement
+||Pas assez de documentation
+||Faille de sécurité du serveur
+||Maintenance insuffisante
 ||
-Evènements climatiques	|Séisme
-||Phénomène météorologique
+Software	|Pas assez de documentation
+||Pas assez de tests
+||Faille de sécurité du serveur
+||Le sujet est disponible à tous
+||Intégrité du logiciel
 ||
-Perte de services essentiels|Panne de climatisation
-||Panne électrique
+Network|	Réseau Wi-Fi
+||Conformité de l'infrastructure réseau
+||Failles de sécurité des équipements et du réseau
+||Les données circulent en clair sur le réseau
+||Sécurité du réseau
 ||
-Problèmes techniques|	Dysfonctionnement du matériel
-||Panne du matériel
-||Problème logiciel
+Personnel|	Manque de vérification d'identité des étudiants
+||Manque de contrôle de sécurité
+||Visibilité, transmissibilité ou infiltration de clean sheet (donc tricherie)
 ||
-Erreur/négligence de comportement|	Erreur de conception
-||Erreur de configuration
-||Absence de documentation
-||Non respect des lois
+Site	|Conformité du bâtiment
+||Conformité des équipements à l'intérieur de ce bâtiment
+||Faille de sécurité
 ||
-Malveillance/fraude|	Vol d’informations
-||Divulgation d’informations
-||Perturbation des activités
-||Propagation de virus
-||Destruction d’informations
-||Usurpation d’identité
+Organisation|	Suivre des procédures atteignant différents problèmes
 
 ### 4.7 - Réunissez les évènements redoutés et les scénarii de menaces pour analyser les risques
 
