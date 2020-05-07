@@ -47,7 +47,7 @@ On se propose d’analyser simplement les risques auxquels s’exposent un cycli
 > Les impacts sont les dommages physiques et matériels.
 
 5. Quel est la vraisemblance de ce scénario de risques ?
-    > Taux de probabilité élevé
+> Taux de probabilité élevé
 
 6. Quel peut être le scénario d’exploitation de la vulnérabilité par le risque ?
 > Le scénario d’exploitation de la vulnérabilité par le risque est l’exploitation d’une vulnérabilité par une menace donnant lieu à un impact.
